@@ -3,10 +3,10 @@
 session_start();
 
 //definera variablerna för att ansluta till databas
-define('DB_USER','hajkep_se');
-define('DB_PASSWORD','7FZeKjjn');
-define('DB_HOST','hajkep.se.mysql');
-define('DB_NAME','hajkep_se');
+define('DB_USER','xxx');
+define('DB_PASSWORD','xxx');
+define('DB_HOST','xxx');
+define('DB_NAME','xxx');
 
 // Ansluter till databasen med variablerna
 // eller om det inte går att ansluta - printa "No DB-connection!" och sedan avsluta script
